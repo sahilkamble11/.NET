@@ -1,0 +1,12 @@
+D:\TAP\My Git Repos\.NET\MyApp\BankLibrary\bin\Debug\net9.0\BankLibrary.deps.json
+D:\TAP\My Git Repos\.NET\MyApp\BankLibrary\bin\Debug\net9.0\BankLibrary.dll
+D:\TAP\My Git Repos\.NET\MyApp\BankLibrary\bin\Debug\net9.0\BankLibrary.pdb
+D:\TAP\My Git Repos\.NET\MyApp\BankLibrary\obj\Debug\net9.0\BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\.NET\MyApp\BankLibrary\obj\Debug\net9.0\BankLibrary.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\.NET\MyApp\BankLibrary\obj\Debug\net9.0\BankLibrary.AssemblyInfo.cs
+D:\TAP\My Git Repos\.NET\MyApp\BankLibrary\obj\Debug\net9.0\BankLibrary.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\.NET\MyApp\BankLibrary\obj\Debug\net9.0\BankLibrary.sourcelink.json
+D:\TAP\My Git Repos\.NET\MyApp\BankLibrary\obj\Debug\net9.0\BankLibrary.dll
+D:\TAP\My Git Repos\.NET\MyApp\BankLibrary\obj\Debug\net9.0\refint\BankLibrary.dll
+D:\TAP\My Git Repos\.NET\MyApp\BankLibrary\obj\Debug\net9.0\BankLibrary.pdb
+D:\TAP\My Git Repos\.NET\MyApp\BankLibrary\obj\Debug\net9.0\ref\BankLibrary.dll
