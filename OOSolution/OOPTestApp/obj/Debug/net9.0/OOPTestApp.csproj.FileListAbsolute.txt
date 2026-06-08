@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\.NET\OOSolution\OOPTestApp\bin\Debug\net9.0\OOPTestApp.exe
+D:\TAP\My Git Repos\.NET\OOSolution\OOPTestApp\bin\Debug\net9.0\OOPTestApp.deps.json
+D:\TAP\My Git Repos\.NET\OOSolution\OOPTestApp\bin\Debug\net9.0\OOPTestApp.runtimeconfig.json
+D:\TAP\My Git Repos\.NET\OOSolution\OOPTestApp\bin\Debug\net9.0\OOPTestApp.dll
+D:\TAP\My Git Repos\.NET\OOSolution\OOPTestApp\bin\Debug\net9.0\OOPTestApp.pdb
+D:\TAP\My Git Repos\.NET\OOSolution\OOPTestApp\obj\Debug\net9.0\OOPTestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\.NET\OOSolution\OOPTestApp\obj\Debug\net9.0\OOPTestApp.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\.NET\OOSolution\OOPTestApp\obj\Debug\net9.0\OOPTestApp.AssemblyInfo.cs
+D:\TAP\My Git Repos\.NET\OOSolution\OOPTestApp\obj\Debug\net9.0\OOPTestApp.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\.NET\OOSolution\OOPTestApp\obj\Debug\net9.0\OOPTestApp.sourcelink.json
+D:\TAP\My Git Repos\.NET\OOSolution\OOPTestApp\obj\Debug\net9.0\OOPTestApp.dll
+D:\TAP\My Git Repos\.NET\OOSolution\OOPTestApp\obj\Debug\net9.0\refint\OOPTestApp.dll
+D:\TAP\My Git Repos\.NET\OOSolution\OOPTestApp\obj\Debug\net9.0\OOPTestApp.pdb
+D:\TAP\My Git Repos\.NET\OOSolution\OOPTestApp\obj\Debug\net9.0\OOPTestApp.genruntimeconfig.cache
+D:\TAP\My Git Repos\.NET\OOSolution\OOPTestApp\obj\Debug\net9.0\ref\OOPTestApp.dll

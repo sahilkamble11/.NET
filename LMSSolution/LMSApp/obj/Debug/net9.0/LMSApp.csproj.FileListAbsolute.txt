@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\.NET\LMSSolution\LMSApp\bin\Debug\net9.0\LMSApp.exe
+D:\TAP\My Git Repos\.NET\LMSSolution\LMSApp\bin\Debug\net9.0\LMSApp.deps.json
+D:\TAP\My Git Repos\.NET\LMSSolution\LMSApp\bin\Debug\net9.0\LMSApp.runtimeconfig.json
+D:\TAP\My Git Repos\.NET\LMSSolution\LMSApp\bin\Debug\net9.0\LMSApp.dll
+D:\TAP\My Git Repos\.NET\LMSSolution\LMSApp\bin\Debug\net9.0\LMSApp.pdb
+D:\TAP\My Git Repos\.NET\LMSSolution\LMSApp\obj\Debug\net9.0\LMSApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\.NET\LMSSolution\LMSApp\obj\Debug\net9.0\LMSApp.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\.NET\LMSSolution\LMSApp\obj\Debug\net9.0\LMSApp.AssemblyInfo.cs
+D:\TAP\My Git Repos\.NET\LMSSolution\LMSApp\obj\Debug\net9.0\LMSApp.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\.NET\LMSSolution\LMSApp\obj\Debug\net9.0\LMSApp.sourcelink.json
+D:\TAP\My Git Repos\.NET\LMSSolution\LMSApp\obj\Debug\net9.0\LMSApp.dll
+D:\TAP\My Git Repos\.NET\LMSSolution\LMSApp\obj\Debug\net9.0\refint\LMSApp.dll
+D:\TAP\My Git Repos\.NET\LMSSolution\LMSApp\obj\Debug\net9.0\LMSApp.pdb
+D:\TAP\My Git Repos\.NET\LMSSolution\LMSApp\obj\Debug\net9.0\LMSApp.genruntimeconfig.cache
+D:\TAP\My Git Repos\.NET\LMSSolution\LMSApp\obj\Debug\net9.0\ref\LMSApp.dll
