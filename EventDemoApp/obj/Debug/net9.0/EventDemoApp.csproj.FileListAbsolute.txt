@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\.NET\EventDemoApp\bin\Debug\net9.0\EventDemoApp.exe
+D:\TAP\My Git Repos\.NET\EventDemoApp\bin\Debug\net9.0\EventDemoApp.deps.json
+D:\TAP\My Git Repos\.NET\EventDemoApp\bin\Debug\net9.0\EventDemoApp.runtimeconfig.json
+D:\TAP\My Git Repos\.NET\EventDemoApp\bin\Debug\net9.0\EventDemoApp.dll
+D:\TAP\My Git Repos\.NET\EventDemoApp\bin\Debug\net9.0\EventDemoApp.pdb
+D:\TAP\My Git Repos\.NET\EventDemoApp\obj\Debug\net9.0\EventDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\.NET\EventDemoApp\obj\Debug\net9.0\EventDemoApp.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\.NET\EventDemoApp\obj\Debug\net9.0\EventDemoApp.AssemblyInfo.cs
+D:\TAP\My Git Repos\.NET\EventDemoApp\obj\Debug\net9.0\EventDemoApp.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\.NET\EventDemoApp\obj\Debug\net9.0\EventDemoApp.sourcelink.json
+D:\TAP\My Git Repos\.NET\EventDemoApp\obj\Debug\net9.0\EventDemoApp.dll
+D:\TAP\My Git Repos\.NET\EventDemoApp\obj\Debug\net9.0\refint\EventDemoApp.dll
+D:\TAP\My Git Repos\.NET\EventDemoApp\obj\Debug\net9.0\EventDemoApp.pdb
+D:\TAP\My Git Repos\.NET\EventDemoApp\obj\Debug\net9.0\EventDemoApp.genruntimeconfig.cache
+D:\TAP\My Git Repos\.NET\EventDemoApp\obj\Debug\net9.0\ref\EventDemoApp.dll

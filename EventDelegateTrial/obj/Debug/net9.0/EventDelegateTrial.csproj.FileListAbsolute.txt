@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\.NET\EventDelegateTrial\bin\Debug\net9.0\EventDelegateTrial.exe
+D:\TAP\My Git Repos\.NET\EventDelegateTrial\bin\Debug\net9.0\EventDelegateTrial.deps.json
+D:\TAP\My Git Repos\.NET\EventDelegateTrial\bin\Debug\net9.0\EventDelegateTrial.runtimeconfig.json
+D:\TAP\My Git Repos\.NET\EventDelegateTrial\bin\Debug\net9.0\EventDelegateTrial.dll
+D:\TAP\My Git Repos\.NET\EventDelegateTrial\bin\Debug\net9.0\EventDelegateTrial.pdb
+D:\TAP\My Git Repos\.NET\EventDelegateTrial\obj\Debug\net9.0\EventDelegateTrial.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\.NET\EventDelegateTrial\obj\Debug\net9.0\EventDelegateTrial.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\.NET\EventDelegateTrial\obj\Debug\net9.0\EventDelegateTrial.AssemblyInfo.cs
+D:\TAP\My Git Repos\.NET\EventDelegateTrial\obj\Debug\net9.0\EventDelegateTrial.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\.NET\EventDelegateTrial\obj\Debug\net9.0\EventDelegateTrial.sourcelink.json
+D:\TAP\My Git Repos\.NET\EventDelegateTrial\obj\Debug\net9.0\EventDelegateTrial.dll
+D:\TAP\My Git Repos\.NET\EventDelegateTrial\obj\Debug\net9.0\refint\EventDelegateTrial.dll
+D:\TAP\My Git Repos\.NET\EventDelegateTrial\obj\Debug\net9.0\EventDelegateTrial.pdb
+D:\TAP\My Git Repos\.NET\EventDelegateTrial\obj\Debug\net9.0\EventDelegateTrial.genruntimeconfig.cache
+D:\TAP\My Git Repos\.NET\EventDelegateTrial\obj\Debug\net9.0\ref\EventDelegateTrial.dll
