@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\.NET\DelegateDemoApp\bin\Debug\net9.0\DelegateDemoApp.exe
+D:\TAP\My Git Repos\.NET\DelegateDemoApp\bin\Debug\net9.0\DelegateDemoApp.deps.json
+D:\TAP\My Git Repos\.NET\DelegateDemoApp\bin\Debug\net9.0\DelegateDemoApp.runtimeconfig.json
+D:\TAP\My Git Repos\.NET\DelegateDemoApp\bin\Debug\net9.0\DelegateDemoApp.dll
+D:\TAP\My Git Repos\.NET\DelegateDemoApp\bin\Debug\net9.0\DelegateDemoApp.pdb
+D:\TAP\My Git Repos\.NET\DelegateDemoApp\obj\Debug\net9.0\DelegateDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\.NET\DelegateDemoApp\obj\Debug\net9.0\DelegateDemoApp.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\.NET\DelegateDemoApp\obj\Debug\net9.0\DelegateDemoApp.AssemblyInfo.cs
+D:\TAP\My Git Repos\.NET\DelegateDemoApp\obj\Debug\net9.0\DelegateDemoApp.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\.NET\DelegateDemoApp\obj\Debug\net9.0\DelegateDemoApp.sourcelink.json
+D:\TAP\My Git Repos\.NET\DelegateDemoApp\obj\Debug\net9.0\DelegateDemoApp.dll
+D:\TAP\My Git Repos\.NET\DelegateDemoApp\obj\Debug\net9.0\refint\DelegateDemoApp.dll
+D:\TAP\My Git Repos\.NET\DelegateDemoApp\obj\Debug\net9.0\DelegateDemoApp.pdb
+D:\TAP\My Git Repos\.NET\DelegateDemoApp\obj\Debug\net9.0\DelegateDemoApp.genruntimeconfig.cache
+D:\TAP\My Git Repos\.NET\DelegateDemoApp\obj\Debug\net9.0\ref\DelegateDemoApp.dll
