@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\.NET\EventDelegateProbStmt\bin\Debug\net9.0\EventDelegateProbStmt.exe
+D:\TAP\My Git Repos\.NET\EventDelegateProbStmt\bin\Debug\net9.0\EventDelegateProbStmt.deps.json
+D:\TAP\My Git Repos\.NET\EventDelegateProbStmt\bin\Debug\net9.0\EventDelegateProbStmt.runtimeconfig.json
+D:\TAP\My Git Repos\.NET\EventDelegateProbStmt\bin\Debug\net9.0\EventDelegateProbStmt.dll
+D:\TAP\My Git Repos\.NET\EventDelegateProbStmt\bin\Debug\net9.0\EventDelegateProbStmt.pdb
+D:\TAP\My Git Repos\.NET\EventDelegateProbStmt\obj\Debug\net9.0\EventDelegateProbStmt.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\.NET\EventDelegateProbStmt\obj\Debug\net9.0\EventDelegateProbStmt.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\.NET\EventDelegateProbStmt\obj\Debug\net9.0\EventDelegateProbStmt.AssemblyInfo.cs
+D:\TAP\My Git Repos\.NET\EventDelegateProbStmt\obj\Debug\net9.0\EventDelegateProbStmt.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\.NET\EventDelegateProbStmt\obj\Debug\net9.0\EventDelegateProbStmt.sourcelink.json
+D:\TAP\My Git Repos\.NET\EventDelegateProbStmt\obj\Debug\net9.0\EventDelegateProbStmt.dll
+D:\TAP\My Git Repos\.NET\EventDelegateProbStmt\obj\Debug\net9.0\refint\EventDelegateProbStmt.dll
+D:\TAP\My Git Repos\.NET\EventDelegateProbStmt\obj\Debug\net9.0\EventDelegateProbStmt.pdb
+D:\TAP\My Git Repos\.NET\EventDelegateProbStmt\obj\Debug\net9.0\EventDelegateProbStmt.genruntimeconfig.cache
+D:\TAP\My Git Repos\.NET\EventDelegateProbStmt\obj\Debug\net9.0\ref\EventDelegateProbStmt.dll
