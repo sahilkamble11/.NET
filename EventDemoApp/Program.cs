@@ -17,18 +17,18 @@ namespace  Banking
         acct123.notify+=notifyMgr.SendSMS;  //attach event handler
         acct123.notify+=notifyMgr.SendWhatsappMessage;
 
-        acct123.overBalance+=taxMgr.PayIncomeTax;
-        acct123.overBalance+=taxMgr.Block;
+        // acct123.overBalance+=taxMgr.PayIncomeTax;
+        // acct123.overBalance+=taxMgr.Block;
 
 
-        acct123.Balance=89000;
+        acct123.Balance=500;
 
        /* acct123.Withdraw(80000);
         acct123.Deposit(7000);
         acct123.Deposit(9000);
         acct123.Withdraw(8000);
      */
-        acct123.Deposit(300000);
+        acct123.Withdraw(100);
 
     }
 }    

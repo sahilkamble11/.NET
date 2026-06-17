@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\.NET\HRApp\bin\Debug\net9.0\HRApp.exe
+D:\TAP\My Git Repos\.NET\HRApp\bin\Debug\net9.0\HRApp.deps.json
+D:\TAP\My Git Repos\.NET\HRApp\bin\Debug\net9.0\HRApp.runtimeconfig.json
+D:\TAP\My Git Repos\.NET\HRApp\bin\Debug\net9.0\HRApp.dll
+D:\TAP\My Git Repos\.NET\HRApp\bin\Debug\net9.0\HRApp.pdb
+D:\TAP\My Git Repos\.NET\HRApp\obj\Debug\net9.0\HRApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\.NET\HRApp\obj\Debug\net9.0\HRApp.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\.NET\HRApp\obj\Debug\net9.0\HRApp.AssemblyInfo.cs
+D:\TAP\My Git Repos\.NET\HRApp\obj\Debug\net9.0\HRApp.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\.NET\HRApp\obj\Debug\net9.0\HRApp.sourcelink.json
+D:\TAP\My Git Repos\.NET\HRApp\obj\Debug\net9.0\HRApp.dll
+D:\TAP\My Git Repos\.NET\HRApp\obj\Debug\net9.0\refint\HRApp.dll
+D:\TAP\My Git Repos\.NET\HRApp\obj\Debug\net9.0\HRApp.pdb
+D:\TAP\My Git Repos\.NET\HRApp\obj\Debug\net9.0\HRApp.genruntimeconfig.cache
+D:\TAP\My Git Repos\.NET\HRApp\obj\Debug\net9.0\ref\HRApp.dll

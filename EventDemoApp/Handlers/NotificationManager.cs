@@ -7,8 +7,7 @@ public class NotificationManager
 {
     public void SendEmail(string message)
     {
-        Console.WriteLine("Email has been sent to Account holder");
-       
+        Console.WriteLine("Email has been sent to Account holder"); 
     }
 
     public void SendSMS(string message)

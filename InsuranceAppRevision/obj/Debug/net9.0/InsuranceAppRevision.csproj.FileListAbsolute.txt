@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\.NET\InsuranceAppRevision\bin\Debug\net9.0\InsuranceAppRevision.exe
+D:\TAP\My Git Repos\.NET\InsuranceAppRevision\bin\Debug\net9.0\InsuranceAppRevision.deps.json
+D:\TAP\My Git Repos\.NET\InsuranceAppRevision\bin\Debug\net9.0\InsuranceAppRevision.runtimeconfig.json
+D:\TAP\My Git Repos\.NET\InsuranceAppRevision\bin\Debug\net9.0\InsuranceAppRevision.dll
+D:\TAP\My Git Repos\.NET\InsuranceAppRevision\bin\Debug\net9.0\InsuranceAppRevision.pdb
+D:\TAP\My Git Repos\.NET\InsuranceAppRevision\obj\Debug\net9.0\InsuranceAppRevision.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\.NET\InsuranceAppRevision\obj\Debug\net9.0\InsuranceAppRevision.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\.NET\InsuranceAppRevision\obj\Debug\net9.0\InsuranceAppRevision.AssemblyInfo.cs
+D:\TAP\My Git Repos\.NET\InsuranceAppRevision\obj\Debug\net9.0\InsuranceAppRevision.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\.NET\InsuranceAppRevision\obj\Debug\net9.0\InsuranceAppRevision.sourcelink.json
+D:\TAP\My Git Repos\.NET\InsuranceAppRevision\obj\Debug\net9.0\InsuranceAppRevision.dll
+D:\TAP\My Git Repos\.NET\InsuranceAppRevision\obj\Debug\net9.0\refint\InsuranceAppRevision.dll
+D:\TAP\My Git Repos\.NET\InsuranceAppRevision\obj\Debug\net9.0\InsuranceAppRevision.pdb
+D:\TAP\My Git Repos\.NET\InsuranceAppRevision\obj\Debug\net9.0\InsuranceAppRevision.genruntimeconfig.cache
+D:\TAP\My Git Repos\.NET\InsuranceAppRevision\obj\Debug\net9.0\ref\InsuranceAppRevision.dll

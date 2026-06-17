@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOPTestApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca049164ebe39a27a60090b9a871aa29dbdc47de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f000fa231d4b54917afddf7fb29cf4249aafe1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOPTestApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOPTestApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
