@@ -1,37 +1,39 @@
 namespace Managers;
 using Delegates;
+
 public class PolicyManager
-{      
-    public event InsuranceAction ?PolicyPurchased;
-    public event InsuranceAction PremiumPay;
-    public event InsuranceAction ClaimRegister;
-    public event InsuranceAction PolicyRenew;
-   
-   
-    public void PurchasePolicy(string message)
+{
+    public event InsuranceAction? PolicyPurchased;
+    public event InsuranceAction? PremiumPay;
+    public event InsuranceAction? ClaimRegister;
+    public event InsuranceAction? PolicyRenew;
+
+    public void PurchasePolicy(string customerName)
     {
-        Console.WriteLine("Policy Purchased");
-        PolicyPurchased?.Invoke("Policy Purchased called");
+        string message = $"Policy purchased for {customerName}.";
+        Console.WriteLine("Policy purchase completed.");
+        PolicyPurchased?.Invoke(message);
     }
 
-     public void PremiumPaid(string message)
+    public void PremiumPaid(string policyNumber)
     {
-        Console.WriteLine("Policy Purchased");
-        PremiumPay.Invoke("Premium Paid called");
+        string message = $"Premium payment received for policy {policyNumber}.";
+        Console.WriteLine("Premium payment completed.");
+        PremiumPay?.Invoke(message);
     }
 
-     public void ClaimRegistered(string message)
+    public void ClaimRegistered(string policyNumber)
     {
-        Console.WriteLine("Policy Purchased");
-        ClaimRegister.Invoke("Claim Registered called");
+        string message = $"Claim registered for policy {policyNumber}.";
+        Console.WriteLine("Claim registration completed.");
+        ClaimRegister?.Invoke(message);
     }
 
-     public void PolicyRenewed(string message)
+    public void PolicyRenewed(string policyNumber)
     {
-        Console.WriteLine("Policy Purchased");
-        PolicyRenew.Invoke("Policy Renewed called");
+        string message = $"Policy {policyNumber} renewed successfully.";
+        Console.WriteLine("Policy renewal completed.");
+        PolicyRenew?.Invoke(message);
     }
-
-
 }
 

@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Add;
+
+Person thePerson=new Manager();
+
+//Person thePerson=new Person();
+thePerson.Display();

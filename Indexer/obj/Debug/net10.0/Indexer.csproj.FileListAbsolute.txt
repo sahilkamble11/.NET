@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\.NET\Indexer\bin\Debug\net10.0\Indexer.exe
+D:\TAP\My Git Repos\.NET\Indexer\bin\Debug\net10.0\Indexer.deps.json
+D:\TAP\My Git Repos\.NET\Indexer\bin\Debug\net10.0\Indexer.runtimeconfig.json
+D:\TAP\My Git Repos\.NET\Indexer\bin\Debug\net10.0\Indexer.dll
+D:\TAP\My Git Repos\.NET\Indexer\bin\Debug\net10.0\Indexer.pdb
+D:\TAP\My Git Repos\.NET\Indexer\obj\Debug\net10.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\.NET\Indexer\obj\Debug\net10.0\Indexer.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\.NET\Indexer\obj\Debug\net10.0\Indexer.AssemblyInfo.cs
+D:\TAP\My Git Repos\.NET\Indexer\obj\Debug\net10.0\Indexer.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\.NET\Indexer\obj\Debug\net10.0\Indexer.sourcelink.json
+D:\TAP\My Git Repos\.NET\Indexer\obj\Debug\net10.0\Indexer.dll
+D:\TAP\My Git Repos\.NET\Indexer\obj\Debug\net10.0\refint\Indexer.dll
+D:\TAP\My Git Repos\.NET\Indexer\obj\Debug\net10.0\Indexer.pdb
+D:\TAP\My Git Repos\.NET\Indexer\obj\Debug\net10.0\Indexer.genruntimeconfig.cache
+D:\TAP\My Git Repos\.NET\Indexer\obj\Debug\net10.0\ref\Indexer.dll

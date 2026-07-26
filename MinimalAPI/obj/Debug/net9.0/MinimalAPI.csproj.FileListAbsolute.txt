@@ -1,0 +1,15 @@
+D:\TAP\My Git Repos\.NET\MinimalAPI\bin\Debug\net9.0\MinimalAPI.exe
+D:\TAP\My Git Repos\.NET\MinimalAPI\bin\Debug\net9.0\MinimalAPI.deps.json
+D:\TAP\My Git Repos\.NET\MinimalAPI\bin\Debug\net9.0\MinimalAPI.runtimeconfig.json
+D:\TAP\My Git Repos\.NET\MinimalAPI\bin\Debug\net9.0\MinimalAPI.dll
+D:\TAP\My Git Repos\.NET\MinimalAPI\bin\Debug\net9.0\MinimalAPI.pdb
+D:\TAP\My Git Repos\.NET\MinimalAPI\obj\Debug\net9.0\MinimalAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\My Git Repos\.NET\MinimalAPI\obj\Debug\net9.0\MinimalAPI.AssemblyInfoInputs.cache
+D:\TAP\My Git Repos\.NET\MinimalAPI\obj\Debug\net9.0\MinimalAPI.AssemblyInfo.cs
+D:\TAP\My Git Repos\.NET\MinimalAPI\obj\Debug\net9.0\MinimalAPI.csproj.CoreCompileInputs.cache
+D:\TAP\My Git Repos\.NET\MinimalAPI\obj\Debug\net9.0\MinimalAPI.sourcelink.json
+D:\TAP\My Git Repos\.NET\MinimalAPI\obj\Debug\net9.0\MinimalAPI.dll
+D:\TAP\My Git Repos\.NET\MinimalAPI\obj\Debug\net9.0\refint\MinimalAPI.dll
+D:\TAP\My Git Repos\.NET\MinimalAPI\obj\Debug\net9.0\MinimalAPI.pdb
+D:\TAP\My Git Repos\.NET\MinimalAPI\obj\Debug\net9.0\MinimalAPI.genruntimeconfig.cache
+D:\TAP\My Git Repos\.NET\MinimalAPI\obj\Debug\net9.0\ref\MinimalAPI.dll
